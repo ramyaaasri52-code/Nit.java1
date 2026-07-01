@@ -7,7 +7,7 @@ public class Work {
         while(n<0)
         {
             int digit=n%10;
-            reverse=reverse
+            reverse=reverses
         }
     }
 

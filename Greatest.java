@@ -9,9 +9,9 @@ public class Greatest {
         {
             System.out.println("number 1 is Greatest");
         }
-        if else
+        if else{
+        }
         else{
             System.out.println("not Greatest");
         }
     }
-}

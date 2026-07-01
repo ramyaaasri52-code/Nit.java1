@@ -10,5 +10,4 @@ public class Problem {
         }
         System.out.println("");
     }
-    
 }
