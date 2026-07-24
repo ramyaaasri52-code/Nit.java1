@@ -5,7 +5,7 @@ public class Simple {
         int principal=sp.nextInt();
         int rate=sp.nextInt();
         int time=sp.nextInt();
-       int  interest=(principal*rate*time)/100;
+        int  interest=(principal*rate*time)/100;
         System.out.println("simple interest"+interest);
 
         

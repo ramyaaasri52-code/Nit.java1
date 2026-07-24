@@ -8,5 +8,4 @@ public class Loop1 {
             System.out.println(i);
         }
     }
-    
 }
